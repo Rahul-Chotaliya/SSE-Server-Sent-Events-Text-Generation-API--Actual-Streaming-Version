@@ -242,7 +242,7 @@ data: {"generated_text": "FastAPI is a modern web framework for building APIs"}
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Rahul Chotaliya](https://github.com/Rahul-Chotaliya)
 
 ---
 
